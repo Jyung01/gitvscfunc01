@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "vs_func": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7263",
+      "launchBrowser": false
+    }
+  }
+}
